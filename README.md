@@ -1,5 +1,5 @@
 
-# ANCESI (Altium to Neoden Converter Editor with Stock Integration) 
+# ANCESI (Altium to NeoDen Converter Editor with Stock Integration) 
 ANCESI is a python script that offers a GUI environment for converting PnP CSV files made using Altium Designer into PnP CSV files formatted in a manner that the NeoDen YY1 PnP machine will understand. It also offers the functionality of editing already converted PnP CSV files.
 
 # NSE (NeoDen Stock Editor) 
